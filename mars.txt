@@ -1,3 +1,4 @@
 cold and dry but everything is my favourite colour.
 The two moons might be a problem for wolfman.
-
+This is the 3rd line to test the script.
+This is the 4th line that I have added to test the git platform.
